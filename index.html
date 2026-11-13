@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dị Giới Sát Thần</title>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #090a10;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #15151f;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #444;
+}
+
+header h1 {
+    color: #e63946;
+    letter-spacing: 3px;
+}
+
+nav {
+    padding: 15px;
+    text-align: center;
+    background: #101019;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: linear-gradient(#0009, #090a10),
+    radial-gradient(circle, #631b29, #090a10);
+}
+
+.hero h2 {
+    font-size: 38px;
+    color: #ff4655;
+}
+
+.hero p {
+    color: #ccc;
+    line-height: 1.7;
+}
+
+button {
+    padding: 13px 25px;
+    background: #e63946;
+    color: white;
+    border: 0;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+section {
+    padding: 35px 20px;
+    text-align: center;
+}
+
+.card {
+    background: #191923;
+    padding: 22px;
+    margin: 15px auto;
+    max-width: 500px;
+    border-radius: 12px;
+    border: 1px solid #333;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    color: #888;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>DỊ GIỚI SÁT THẦN</h1>
+    <p>THE WORLD BEYOND DEATH</p>
+</header>
+
+<nav>
+    <a href="#home">Trang chủ</a>
+    <a href="#characters">Nhân vật</a>
+    <a href="#world">Thế giới</a>
+</nav>
+
+<div class="hero" id="home">
+    <h2>WELCOME TO THE WAR</h2>
+    <p>
+        Một thế giới được tạo ra bởi sự hủy diệt.<br>
+        Một cuộc chiến không có lối thoát.<br>
+        Và những con người phải chiến đấu để tồn tại.
+    </p>
+    <button onclick="document.getElementById('characters').scrollIntoView({behavior:'smooth'})">
+        KHÁM PHÁ
+    </button>
+</div>
+
+<section id="characters">
+    <h2>NHÂN VẬT</h2>
+
+    <div class="card">
+        <h3>HOÀNG</h3>
+        <p>Nhân vật trung tâm của Dị Giới Sát Thần.</p>
+    </div>
+
+    <div class="card">
+        <h3>NHI</h3>
+        <p>Người nắm giữ sức mạnh của Thần Ánh Sáng.</p>
+    </div>
+
+    <div class="card">
+        <h3>HADES</h3>
+        <p>Kẻ đứng sau gị giới.</p>
+    </div>
+</section>
+
+<section id="world">
+    <h2>VŨ TRỤ</h2>
+    <div class="card">
+        <p>Bốn vị thần. Một thế giới sinh tồn. Một cuộc chiến định mệnh.</p>
+    </div>
+</section>
+
+<footer>
+    © 2026 DỊ GIỚI SÁT THẦN
+</footer>
+
+</body>
+  </html>
+  
