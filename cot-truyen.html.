@@ -1,0 +1,321 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nguồn gốc - Dị Giới Sát Thần</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #080808;
+            color: #e5e5e5;
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+        }
+
+        header {
+            padding: 55px 20px;
+            text-align: center;
+            background: linear-gradient(180deg, #300000, #080808);
+            border-bottom: 1px solid #650000;
+        }
+
+        header h1 {
+            color: #e60000;
+            font-size: 32px;
+            letter-spacing: 3px;
+        }
+
+        header p {
+            color: #999;
+            margin-top: 10px;
+        }
+
+        nav {
+            text-align: center;
+            padding: 15px;
+            background: #111;
+            border-bottom: 1px solid #292929;
+        }
+
+        nav a {
+            color: #ddd;
+            text-decoration: none;
+            margin: 0 12px;
+            transition: 0.3s;
+        }
+
+        nav a:hover {
+            color: #ff3333;
+        }
+
+        main {
+            max-width: 850px;
+            margin: 45px auto;
+            padding: 0 22px;
+        }
+
+        .chapter {
+            margin-bottom: 45px;
+            padding: 25px;
+            background: #111;
+            border-left: 3px solid #a00000;
+            border-radius: 5px;
+        }
+
+        .chapter h2 {
+            color: #ff3333;
+            margin-bottom: 18px;
+            font-size: 22px;
+        }
+
+        .chapter p {
+            margin-bottom: 15px;
+            color: #ccc;
+            text-align: justify;
+        }
+
+        .quote {
+            margin: 25px 0;
+            padding: 20px;
+            background: #1b0808;
+            border-left: 3px solid #ff2222;
+            color: #ff5555;
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .highlight {
+            color: #ff5555;
+            font-weight: bold;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #666;
+            border-top: 1px solid #292929;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 24px;
+            }
+
+            .chapter {
+                padding: 18px;
+            }
+
+            nav a {
+                display: inline-block;
+                margin: 5px 8px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>DỊ GIỚI SÁT THẦN</h1>
+    <p>Khởi nguồn của một thế giới không thuộc về bất kỳ vũ trụ nào</p>
+</header>
+
+<nav>
+    <a href="index.html">TRANG CHỦ</a>
+    <a href="cot-truyen.html">CỐT TRUYỆN</a>
+</nav>
+
+<main>
+
+    <section class="chapter">
+        <h2>01. Kỷ nguyên sơ khai</h2>
+
+        <p>
+            Vào thời sơ khai, khi chưa có bất kỳ vũ trụ nào tồn tại,
+            cũng chưa từng xuất hiện khái niệm được gọi là sự sống.
+        </p>
+
+        <p>
+            Sự sống được hình thành thông qua ba thực thể được xem
+            là những đấng tạo hóa của các khái niệm nền tảng.
+        </p>
+
+        <p>
+            <span class="highlight">Thần Ánh Sáng</span> tạo ra sự sống.
+            <span class="highlight">Thần Bóng Tối</span> tạo ra cái chết.
+            <span class="highlight">Thần Thời Gian</span> tạo ra thứ cho phép
+            mọi sự vật vận động.
+        </p>
+    </section>
+
+    <section class="chapter">
+        <h2>02. Sự xuất hiện của Thần Hủy Diệt</h2>
+
+        <p>
+            Tuy nhiên, sự sống không phát triển theo cách mà các vị thần
+            mong muốn. Trong một kỷ nguyên, có những loài sinh vật
+            thống trị thế giới.
+        </p>
+
+        <p>
+            Ba vị thần không thể trực tiếp can thiệp để loại bỏ
+            những loài sinh vật đó.
+        </p>
+
+        <p>
+            Vì vậy, một vị thần khác đã xuất hiện:
+            <span class="highlight">Thần Hủy Diệt</span>.
+        </p>
+
+        <p>
+            Mục đích tồn tại của hắn là loại bỏ những loài sinh vật
+            thống trị hoặc khiến chúng suy yếu.
+        </p>
+    </section>
+
+    <section class="chapter">
+        <h2>03. Nhân loại và chiến tranh</h2>
+
+        <p>
+            Khi con người trở thành loài thống trị thế giới,
+            Thần Hủy Diệt tiếp tục thực hiện nhiệm vụ của mình.
+        </p>
+
+        <p>
+            Hắn tìm cách khiến nhân loại tự hủy diệt bằng việc
+            tạo ra những cuộc chiến giữa chính con người với nhau.
+        </p>
+
+        <p>
+            Nhưng sau những cuộc chiến khủng khiếp ấy,
+            con người đã làm một điều nằm ngoài dự đoán của hắn:
+            họ lựa chọn hòa bình.
+        </p>
+    </section>
+
+    <section class="chapter">
+        <h2>04. Câu hỏi của Thần Hủy Diệt</h2>
+
+        <p>
+            Không thể chấp nhận sự thật đó, Thần Hủy Diệt tìm cách
+            xâm nhập vào những vũ trụ của ba vị thần còn lại.
+        </p>
+
+        <p>
+            Ba vị thần biết sự tồn tại của hắn nhưng không can thiệp,
+            bởi họ cho rằng hắn chẳng thể làm được gì trong
+            những vũ trụ ấy.
+        </p>
+
+        <p>
+            Thần Hủy Diệt liên tục nhập vào cơ thể con người,
+            tìm kiếm câu trả lời cho một câu hỏi.
+        </p>
+
+        <div class="quote">
+            "TẠI SAO CHIẾN TRANH LẠI KẾT THÚC?"
+        </div>
+
+        <p>
+            Những câu trả lời mà con người đưa ra đều không thỏa mãn hắn.
+            Theo thời gian, hắn dần cảm nhận được sự tồn tại của mình
+            đang biến mất.
+        </p>
+
+        <p>
+            Nhưng những cảm xúc tích tụ qua vô số lần tìm kiếm
+            dường như đã mang đến cho hắn một cơ hội lớn.
+        </p>
+    </section>
+
+    <section class="chapter">
+        <h2>05. Vũ trụ trống rỗng</h2>
+
+        <p>
+            Một vết nứt không gian bất ngờ xuất hiện.
+            Thần Hủy Diệt bước vào bên trong và phát hiện
+            một vũ trụ hoàn toàn kỳ lạ.
+        </p>
+
+        <p>
+            Nơi đây dường như chẳng có gì tồn tại,
+            nhưng lại có một sự liên kết với những vũ trụ khác.
+        </p>
+
+        <p>
+            Trong toàn bộ không gian ấy, hắn chỉ nhìn thấy
+            duy nhất hai hành tinh.
+        </p>
+    </section>
+
+    <section class="chapter">
+        <h2>06. Hai hành tinh</h2>
+
+        <p>
+            Hành tinh thứ nhất có nhiệm vụ kết nối những vũ trụ khác nhau.
+            Đó chính là <span class="highlight">Sao Hỏa</span>.
+        </p>
+
+        <p>
+            Hành tinh thứ hai là nơi chịu trách nhiệm cho sự xuất hiện
+            của những sinh vật đến từ các vũ trụ.
+            Đó chính là <span class="highlight">Trái Đất</span>.
+        </p>
+    </section>
+
+    <section class="chapter">
+        <h2>07. Những viên đá năng lượng</h2>
+
+        <p>
+            Bên trong Sao Hỏa tồn tại những viên đá năng lượng.
+            Khi một vết nứt xuất hiện trên Sao Hỏa,
+            những viên đá sẽ tự hướng về Trái Đất
+            trong các vũ trụ khác nhau.
+        </p>
+
+        <p>
+            Những viên đá lao xuống Trái Đất và có thể được
+            bất kỳ sinh vật nào vô tình chạm vào.
+        </p>
+
+        <p>
+            Chỉ cần tiếp xúc, quá trình dịch chuyển sẽ bắt đầu.
+            Nếu nhiều người cùng chạm vào một viên đá,
+            người có thời điểm tiếp xúc đầu tiên sẽ được ưu tiên.
+        </p>
+
+        <p>
+            Đáng chú ý, quá trình này không đưa bản gốc đi.
+            Thay vào đó, một bản sao của sinh vật được tạo ra
+            và đưa đến hành tinh thứ hai.
+        </p>
+
+        <p>
+            Bản gốc vẫn ở thế giới ban đầu trong trạng thái bất tỉnh,
+            còn bản sao xuất hiện tại một thế giới xa lạ.
+        </p>
+
+        <p>
+            Thế giới ấy được gọi là:
+            <span class="highlight">DỊ GIỚI</span>.
+        </p>
+    </section>
+
+</main>
+
+<footer>
+    <p>DỊ GIỚI SÁT THẦN</p>
+    <p>© Universe Archive</p>
+</footer>
+
+</body>
+</html>
